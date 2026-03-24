@@ -6,7 +6,7 @@ Rat injecte any device
 
 ---
 
-### 🛠️ Mandatory Installation Sequence
+###Moduleandatory Installation Sequence
 To initialize the TITAN-CORE framework and synchronize all hardware bridges, execute these commands in your terminal:
 
 **1. System Refresh & Repository Sync**
@@ -26,9 +26,8 @@ Storage Protocol: Execute termux-setup-storage and click "ALLOW".
 API Integration: Ensure the Termux:API application is installed from F-Droid.
 
 Persistent Connection: Exclude Termux from Battery Optimization for 24/7 uptime.
-Module,Diagnostic Function
-Shadow Stream,Real-time UI visual telemetry.
-Ambient Audio,Remote environmental audio capture.
-File Explorer,Full directory navigation and file access.
-App Manager,Application process control and listing.
-Self-Destruct,Secure wipe of framework and logs.
+
+
+
+
+✅🎮 Administrative Modules:ModuleDiagnostic FunctionShadow StreamReal-time UI visual telemetry.Ambient AudioRemote environmental audio capture.File ExplorerFull directory navigation and file access.App ManagerApplication process control and listing.Self-DestructSecure wipe of framework and logs.
